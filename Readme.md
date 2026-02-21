@@ -26,15 +26,13 @@ Planned architectural improvements include:
 ## 🚀 How to Run
 
 1. **Clone the repository**:
-```bash
-git clone https://github.com/rizwanahmed109-beep/pacman-python.git
+   ```bash
+   git clone https://github.com/rizwanahmed109-beep/pacman-python.git
 
 2. **Install dependencies**:
-
-```bash
-pip install pygame numpy
+    ```bash
+    pip install pygame numpy
 
 3. **Execute the game**:
-
-```bash
-python main.py
+    ```bash
+    python main.py
